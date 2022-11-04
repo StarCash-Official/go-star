@@ -22,7 +22,7 @@ import "github.com/ethereum/go-ethereum/common"
 // the main Ethereum network.
 var MainnetBootnodes = []string{
 	// Bootnodes
-	"",     // StarCash team
+	"enode://0ce69fe261c8ba651cf7c7231802b80a0234fdb0ff3fbee8e66bee3457c36c3fd2a93b8868fed9ec61933a0f9f269025d72c9635e66d01545bca82d3f1492ff6@162.254.32.93:10333",     // StarCash team
 	
 }
 
